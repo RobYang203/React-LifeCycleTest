@@ -2,7 +2,7 @@
 
 ### 元件
 * App
-    * 主 Component
+    * 主 Component
     * 設定兩個按鈕
         1. 觸發 `this.setState();`, 執行 **render**
         2. 建立`兩個子Component`,傳送 **props** 
