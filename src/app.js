@@ -199,12 +199,12 @@ class AppSub extends React.Component{
       );
   }
 
-/*    //mounting 
+   //mounting 
   componentDidMount(){
-    console.log("componentDidMount");
+    console.log(this.name ,"componentDidMount");
   }
 
-  //updating
+  /* //updating
   componentWillReceiveProps(nextProps){
     console.log("componentWillReceiveProps");
   } */
