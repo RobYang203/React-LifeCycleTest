@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+.Border{
+    border:1px solid #FFF;
+    padding: 5px;
+}
+.subBorder{
+    border:1px solid rgb(54, 53, 53);
+    display: inline-block;
+    padding: 5px;
+}
